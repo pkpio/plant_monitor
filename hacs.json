@@ -1,0 +1,9 @@
+{
+    "name": "Plant monitor",
+    "hacs": "0.0.1",
+    "domains": [
+        "sensor"
+    ],
+    "iot_class": "Local Polling",
+    "homeassistant": "0.110.0"
+}

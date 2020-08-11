@@ -1,0 +1,11 @@
+{
+  "domain": "plant_monitor",
+  "name": "Plant monitor",
+  "documentation": "https://github.com/praveendath92/plant_monitor",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": [
+    "@praveendath92"
+  ],
+  "requirements": []
+}
